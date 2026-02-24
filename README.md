@@ -127,12 +127,7 @@ SecureFlow covers the cutting edge of AI Security standards:
 2.  **OWASP Top 10 for Agentic AI (2026)**: Forward-looking research on autonomous agent risks.
 3.  **Model Context Protocol (MCP)**: Security flaws in the emerging standard for connecting AI models to data.
 
-### 🏅 Certification Path
-Validate your skills through the built-in exam engine:
-- **CAISA** (Certified AI Security Associate): Basics of AI architecture and risks.
-- **CPID** (Certified Prompt Injection Defender): Advanced prompt hardening.
-- **CLSA** (Certified LLM Security Architect): Secure system design.
-- **CASE** (Certified AI Security Expert): **Hard Mode**. Advanced adversarial scenarios and math-based defenses.
+
 
 ---
 
