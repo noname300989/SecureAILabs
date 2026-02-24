@@ -118,7 +118,7 @@ The platform features distinct interface types to simulate different attack vect
 
 ---
 
-## 🛡️ Curriculum & Certification
+## 🛡️ Curriculum 
 
 SecureFlow covers the cutting edge of AI Security standards:
 
